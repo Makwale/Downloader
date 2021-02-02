@@ -1,0 +1,7 @@
+{
+  "name": "Downloader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
