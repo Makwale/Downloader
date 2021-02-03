@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Down</string>
+    <string name="title_activity_main">Down</string>
+    <string name="package_name">com.d.emma</string>
+    <string name="custom_url_scheme">com.d.emma</string>
+</resources>

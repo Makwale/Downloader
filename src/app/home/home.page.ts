@@ -22,7 +22,8 @@ export class HomePage {
       destinationInExternalFilesDir: {
           dirType: 'Downloads',
           subPath: 'MyFile.apk'
-      }
+      },
+      
   };
 
 
